@@ -1,0 +1,28 @@
+# Unity generated
+[Bb]uild/
+[Ll]ibrary/
+[Oo]bj/
+[Tt]emp/
+MemoryCaptures/
+ProfilerCaptures/
+Logs/
+*.log
+
+# IDE generated
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# OS generated
+._*
+.DS_Store
+.DS_Store*
+.Spotlight-V100
+.Trashes
+[Tt]humbs.db
+ehthumbs.db

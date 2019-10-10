@@ -1,0 +1,18 @@
+{
+	"name": "com.vasylromanets.handybuttons",
+	"displayName": "Handy Buttons",
+	"version": "1.0.0",
+	"unity": "2018.1",
+	"description": "Use the 'Button' attribute on a method to draw a button in the Unity Inspector.",
+	"keywords": [
+		"utility",
+		"plugin",
+		"editor",
+		"extension"
+	],
+	"author": {
+		"name": "Vasyl Romanets",
+		"email": "romanets.vasyl@gmail.com",
+		"url": "https://twitter.com/VasylRomanets"
+	}
+}

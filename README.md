@@ -28,7 +28,14 @@ private void Foo()
 Keep in mind these limitations:
 * Method can't be generic
 * Method can't have parameters
-* Classes with custom editors should inherit from *MonoBehaviourButtonEditor/ScriptableObjectButtonEditor*
+* Classes with custom editors should use helper methods of *ButtonUtility* or inherit from *MonoBehaviourButtonEditor/ScriptableObjectButtonEditor*
+
+### Installation
+To add the attribute as a custom package open *YourProject/Packages/manifest.json* and add the following line to the *dependencies* object:
+```json
+"com.vasylromanets.handybuttons": "https://github.com/VasylRomanets/HandyButtons.git#upm"
+```
+Or you can simply download the source code and drop it into *YourProject/Assets* folder.
 
 ### Example
 ```csharp
